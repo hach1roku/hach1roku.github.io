@@ -1,3 +1,7 @@
+body,
+html {
+	height:100%
+}
 
 body {
 	font: 1em arial;
@@ -16,7 +20,7 @@ body {
 }
 
 .head-text {
-	font: 2em roboto;
+	font: 2.5em roboto;
 }
 
 .lorem-container {
