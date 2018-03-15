@@ -2,5 +2,15 @@ body,
 html {
 	margin: 0;
 	padding: 0;
-	height:100%
+	height: 100%;
+}
+
+body {
+	background-color: #e0e0e0;
+}
+
+.topbar {
+	width: 1000px;
+	height: 52px;
+	background-color: #2d2928;
 }
