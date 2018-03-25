@@ -26,10 +26,15 @@ body {
 	background-color: #2d2928;
 }
 
-.circle-wrap {
-	float: right;
-	margin-right: 23px;
+.userblock {
+	display: inline-block;
+	color: #c4c4c4;
 }
+
+li  {
+	display: inline-block;
+}
+
 .circle {
 	float: right;
 	display: inline-block;
