@@ -47,6 +47,8 @@ li  {
 }
 
 .logo-main {
+	display: block;
+	margin: 32px 88px 42px 89px;
 	font-size: 100px;
 }
 
