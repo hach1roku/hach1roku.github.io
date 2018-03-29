@@ -35,8 +35,12 @@ li  {
 	display: inline-block;
 }
 
+.circle-wrap {
+	display: inline-block;
+	margin: 10px 23px 10px 500px;
+}
+
 .circle {
-	float: right;
 	display: inline-block;
 	width: 30px;
 	height: 30px;
@@ -48,10 +52,11 @@ li  {
 
 .logo-main {
 	display: block;
-	margin: 32px 88px 42px 89px;
+	margin: 0px 88px 0px 89px;
 	font-size: 100px;
 }
 
 .logo-text {
+	margin: 0px 217px 0px 204px;
 	font-size: 20px;
 }
