@@ -7,3 +7,8 @@ h1 {
   font-family: SusaLight;
   font-size: 3.125em;
 }
+
+ul>li {
+  font-family: OpenSans;
+  font-weight: 300;
+}
