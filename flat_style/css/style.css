@@ -3,6 +3,10 @@
   src: url("../fonts/Susa-Light.otf");
 }
 
+header {
+  background-image: url("../img/overlay-background.jpg");
+}
+
 h1 {
   font-family: SusaLight;
   font-size: 3.125em;
